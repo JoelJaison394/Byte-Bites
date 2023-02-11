@@ -22,7 +22,7 @@
 
 ## Installation
 1. Clone the repository.
-2. Run `npm install or npm i` in both the root directory and the client directory.
+2. Run `$ npm install ` or `$ npm i` in both the root directory and the client directory.
 
 3. Create a `.env` file in the root directory with the following variables:
    
