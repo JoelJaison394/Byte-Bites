@@ -24,7 +24,8 @@
 1. Clone the repository.
 2. Run `npm install or npm i` in both the root directory and the client directory.
 
-3. ```javascript
+3. Create a `.env` file in the root directory with the following variables:
+   ```javascript
  - MONGODB_URI=<your MongoDB URI>
  - JWT_SECRET=<your JWT secret>
  - MAILCHIMP_API_KEY=<your Mailchimp API key>
