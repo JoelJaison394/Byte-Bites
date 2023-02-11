@@ -25,10 +25,10 @@
 2. Run `npm install or npm i` in both the root directory and the client directory.
 
 3. ```javascript
- MONGODB_URI=<your MongoDB URI>
- JWT_SECRET=<your JWT secret>
- MAILCHIMP_API_KEY=<your Mailchimp API key>
- MAILCHIMP_LIST_ID=<your Mailchimp list ID>
+ - MONGODB_URI=<your MongoDB URI>
+ - JWT_SECRET=<your JWT secret>
+ - MAILCHIMP_API_KEY=<your Mailchimp API key>
+ - MAILCHIMP_LIST_ID=<your Mailchimp list ID>
 ```
 4. Run `npm run dev`  to start the development server.
 
