@@ -39,12 +39,12 @@
 Contributions are welcome! Feel free to submit a pull request or open an issue if you find any bugs or have suggestions for new features. See the [CONTRIBUTING.md](https://github.com/JoelJaison394/Byte-Bites/blob/main/CONTRIBUTING.md "CONTRIBUTING.md") file for more information.
    ### Contributing to Byte-Bites
    
-       Thank you for your interest in contributing to MyTechBlog! This project welcomes all types of contributions, including bug reports, feature requests,                  documentation    improvements, and code contributions.
+Thank you for your interest in contributing to MyTechBlog! This project welcomes all types of contributions, including bug reports, feature requests,                  documentation    improvements, and code contributions.
 
-        Before you start contributing, please take a moment to read the following guidelines.
+Before you start contributing, please take a moment to read the following guidelines.
         
  ## Getting started
-    refer installation
+refer installation
 
 ## License
 This project is licensed under the MIT License. See the LICENSE  file for more information.
