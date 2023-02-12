@@ -46,5 +46,21 @@ Before you start contributing, please take a moment to read the following guidel
  ## Getting started
 refer installation
 
+## Bug Reports and Feature Requests
+   If you find a bug in the application, please report it by opening an issue in the GitHub repository. Be sure to include a description of the bug, steps to reproduce it, and any relevant error messages.
+   If you have a feature request, please also open an issue in the repository with a description of the feature and how it would benefit the application.
+## Code Contributions
+If you would like to contribute code to the project, please follow these steps:
+
+1.Create a new branch for your changes.
+2.Make your changes and write tests if applicable.
+3.Push your branch to your forked repository.
+4.Submit a pull request to the main repository.
+
+Please be sure to include a detailed description of your changes in the pull request, including any relevant context or reasoning.
+
+## Code Style
+To maintain consistency in the codebase, please follow the existing code style and conventions. We recommend using ESLint to check your code for errors and enforce style guidelines.
+
 ## License
 This project is licensed under the MIT License. See the LICENSE  file for more information.
