@@ -57,7 +57,7 @@ If you would like to contribute code to the project, please follow these steps:
 3.Push your branch to your forked repository.
 4.Submit a pull request to the main repository.
 
-Please be sure to include a detailed description of your changes in the pull request, including any relevant context or reasoning.
+ Please be sure to include a detailed description of your changes in the pull request, including any relevant context or reasoning.
 
 ## Code Style
 To maintain consistency in the codebase, please follow the existing code style and conventions. We recommend using ESLint to check your code for errors and enforce style guidelines.
