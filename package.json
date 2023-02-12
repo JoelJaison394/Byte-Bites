@@ -1,0 +1,38 @@
+{
+  "name": "byte-bites",
+  "version": "1.0.0",
+  "description": "- User authentication\r - CRUD operations for articles and comments , HTML entities, Code syntax highlighting...\r - Mailchimp API integration for newsletter subscription\r - Search functionality\r - Responsive UI design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelJaison394/Byte-Bites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelJaison394/Byte-Bites/issues"
+  },
+  "homepage": "https://github.com/JoelJaison394/Byte-Bites#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "phone": "^3.1.31",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "concurrently": "^7.6.0",
+    "nodemon": "^2.0.20",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.6"
+  }
+}
