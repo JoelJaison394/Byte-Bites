@@ -5,7 +5,7 @@
 #### Features
 
 - User authentication
-- CRUD operations for articles and comments L18n, HTML entities, Code syntax highlighting...
+- CRUD operations for articles and comments , HTML entities, Code syntax highlighting...
 - Mailchimp API integration for newsletter subscription
 - Search functionality
 - Responsive UI design
