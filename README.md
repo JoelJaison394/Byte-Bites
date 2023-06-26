@@ -1,6 +1,6 @@
 # Byte-Bites
 
-### A MERN stack blog website for sharing articles on web development projects and technologies :fa-gratipay:
+### A MERN stack blog website for sharing articles on web development projects and technologies.
 
 #### Features
 
